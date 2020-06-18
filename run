@@ -1,0 +1,2 @@
+#!/bin/sh
+python twitter_cli/cli.py

@@ -29,3 +29,12 @@ Install dependecies,
 ```
 pip install -r requirements.txt
 ```
+
+Start the CLI tool using script or manually,
+```
+./run
+```
+or
+```
+python twitter_cli/cli.py
+```
